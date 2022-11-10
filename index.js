@@ -7,5 +7,5 @@ console.log(ciudad);
 const nombre = "Gabriel"
 const apellido ="Fiori"
 
-let text = `OMG ${nombre} ${apellido},Hi`;
+let text = `Mi nobre es ${nombre} y mi apellido es ${apellido}`;
 console.log(text);
